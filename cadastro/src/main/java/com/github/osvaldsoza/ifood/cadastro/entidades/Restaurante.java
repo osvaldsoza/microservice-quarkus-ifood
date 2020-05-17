@@ -1,4 +1,4 @@
-package com.github.osvaldsoza.ifood.cadastro.entitidades;
+package com.github.osvaldsoza.ifood.cadastro.entidades;
 
 import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 import org.hibernate.annotations.CreationTimestamp;

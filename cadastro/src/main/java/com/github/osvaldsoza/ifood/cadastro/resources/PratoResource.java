@@ -1,7 +1,7 @@
 package com.github.osvaldsoza.ifood.cadastro.resources;
 
-import com.github.osvaldsoza.ifood.cadastro.entitidades.Prato;
-import com.github.osvaldsoza.ifood.cadastro.entitidades.Restaurante;
+import com.github.osvaldsoza.ifood.cadastro.entidades.Prato;
+import com.github.osvaldsoza.ifood.cadastro.entidades.Restaurante;
 import org.eclipse.microprofile.openapi.annotations.tags.Tag;
 
 import javax.transaction.Transactional;
