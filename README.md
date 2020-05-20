@@ -10,7 +10,7 @@
   Pedidos anteriores;
   Pedidos em andamento;
   Conectar Debezium, Kafkak e Quarkus;
-# Stacks 
+# Stacks:
 ## Keyclock - para autenticação dos usuários
 ## Postgres
 ## MongoDb
@@ -21,3 +21,5 @@
 ## MapStruct - para tratamento dos DTO's
 ## Pronetheus e Grafana - para gráfico e dashboards
 ## Docker
+## Graylog - para log centralizado
+## Enviar Registros para Elasticsearch e Visualizá-los no Kibana
