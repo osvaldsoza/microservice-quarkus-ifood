@@ -14,7 +14,7 @@
 # Stacks:
 ## Keyclock - para autenticação dos usuários
 ## Postgres
-## MongoDb
+## MongoDB
 ## Flyway - migração e evolução do banco
 ## Vert.X - serviço reativos
 ## Tracing com Jaeger
